@@ -5,7 +5,7 @@
 - **18 位中国居民身份证**末位校验码（GB 11643 MOD 11-2）
 - **护照 MRZ 第二行**各字段校验位（ICAO Doc 9303）
 
-**在线访问：** https://SobhaZanYan.github.io/passport-mrz-check/
+**在线访问：** https://abudhabi-realestate.github.io/passport-mrz-check/
 
 ## 本地使用
 
@@ -22,6 +22,6 @@
 1. 新建公开仓库（例如 `passport-mrz-check`）
 2. 上传 `index.html` 和 `README.md`
 3. **Settings → Pages → Branch**：`main`，文件夹 **`/ (root)`**
-4. 访问 `https://SobhaZanYan.github.io/<仓库名>/`
+4. 访问 `https://abudhabi-realestate.github.io/<仓库名>/`
 
 本工具仅校验算法是否正确，不验证号码是否真实签发。
